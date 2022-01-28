@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Conversão de Moeda</string>
+    <string name="txt_valeu">Valor</string>
+    <string name="txt_from">Converter de:</string>
+    <string name="txt_to">Para :</string>
+    <string name="txt_convert">Converter</string>
+</resources>
